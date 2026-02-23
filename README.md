@@ -1,7 +1,7 @@
 # migration-station and state keeper : TODO build and push up code for 
 
 
-# Prompt: Rework Existing Project — statekeeper
+# Rework Existing Project — statekeeper
 
 **Use with:** Claude Code, pointed at the existing database monitoring repo  
 **Repo:** Will be renamed/published as `YusefAmen/statekeeper`
